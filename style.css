@@ -7,11 +7,18 @@
 img {
   border-color: #51656d;
   border-style: groove;
+  height: 0 auto;
+  width: 650px;
+  margin: 0 auto;
+  display: flex;
 }
 
 h1 {
   color: #ec7fec75;
   text-transform: full-width;
+  display: flex;
+  width: 650px;
+  margin: 0 auto;
 }
 
 h2 {
@@ -32,7 +39,7 @@ h3 {
 div {
   border: 1px dotted rgb(206, 183, 183);
   padding: 4px;
-  margin: 4px;
+  margin: 0 auto;
   width: 650px;
   height: 0 auto;
 }
